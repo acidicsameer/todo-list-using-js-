@@ -6,10 +6,7 @@ function check() {
   document.body.appendChild(create);
   create.style.color = "blue";
   create.style.fontSize = "18px";
-  create.style.marginLeft =  "120px";
- 
-
+  create.style.marginLeft = "120px";
   document.body.appendChild(create);
   document.getElementById("textarea").value = " ";
-
 }
